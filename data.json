@@ -1,0 +1,510 @@
+{
+  "equipos": {
+    "aruba 248": {
+      "puertos": {
+        "1": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "2": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "3": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "4": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "5": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "6": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "7": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "8": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "9": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "10": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "11": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "12": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "13": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "14": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "15": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "16": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "17": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "18": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "19": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "20": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "21": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "22": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "23": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "24": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "25": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "26": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "27": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "28": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "29": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "30": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "31": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "32": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "33": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "34": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "35": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "36": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "37": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "38": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "39": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "40": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "41": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "42": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "43": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "44": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "45": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "46": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "47": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "48": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        }
+      }
+    },
+    "aruba 247": {
+      "puertos": {
+        "1": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "2": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "3": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "4": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "5": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "6": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "7": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "8": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "9": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "10": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "11": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "12": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "13": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "14": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "15": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "16": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "17": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "18": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "19": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "20": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "21": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "22": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "23": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "24": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "25": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "26": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "27": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "28": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "29": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "30": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "31": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "32": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "33": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "34": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "35": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "36": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "37": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "38": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "39": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "40": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "41": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "42": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "43": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "44": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "45": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "46": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "47": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        },
+        "48": {
+          "estado": "libre",
+          "ip": "",
+          "comentario": ""
+        }
+      }
+    }
+  },
+  "historico": [
+    {
+      "fecha": "2026-02-08 17:50:49.001276",
+      "evento": "Alta de equipo aruba 248"
+    },
+    {
+      "fecha": "2026-02-08 17:51:09.521925",
+      "evento": "Alta de equipo aruba 247"
+    },
+    {
+      "fecha": "2026-02-08 18:18:05.677122",
+      "evento": "aruba 247 puerto 1 actualizado"
+    },
+    {
+      "fecha": "2026-02-08 18:18:08.892839",
+      "evento": "aruba 247 puerto 1 actualizado"
+    }
+  ]
+}
