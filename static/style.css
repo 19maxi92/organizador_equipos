@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a; /* azul muy oscuro */
+    color: #e5e7eb;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #93c5fd;
+}
+
+select, input {
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid #334155;
+    background: #020617;
+    color: #e5e7eb;
+}
+
+button {
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+/* CONTENEDOR DE PUERTOS */
+.puertos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 14px;
+    margin-top: 20px;
+}
+
+/* TARJETA PUERTO */
+.puerto-card {
+    background: #020617;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+/* HEADER PUERTO */
+.puerto-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+/* ESTADOS */
+.estado-libre {
+    color: #22c55e;
+}
+
+.estado-ocupado {
+    color: #ef4444;
+}
+
+.estado-sin {
+    color: #eab308;
+}
+
+/* BARRA SUPERIOR */
+.top-bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+}
